@@ -15,7 +15,7 @@ window.addEventListener("DOMContentLoaded", fetchurl);
 setInterval(fetchurl, 30000);
 </script>
 <template>
-<h2>Temperature Monitor - esp32</h2>
+<h1>Temperature Monitor - esp32</h1>
 <h2>cheap temperature monitor for your home</h2>
 <h3>Temperature : {{temp}} C</h3>
 <h3>Humidity: {{humidity}} %</h3>
