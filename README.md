@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# ESP32C3 Frontend Client
+an attempt to learn front end. intended for hosted on x86 to recieve data from [esp32c3-temp-server](https://github.com/nafandi/esp32c3-temp-server).
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## how to setup
+\(todo\)
+## license
+[MIT](https://choosealicense.com/licenses/mit/)
