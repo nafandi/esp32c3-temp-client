@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { h, ref } from 'vue';
+import { ref } from 'vue';
 let temp = ref(0);
 let humidity = ref(0);
-const url = "/api/";
+const url = "http://192.168.0.25";
 async function fetchurl() {
   let sensor = await fetch(url);
   let data = await sensor.json();
